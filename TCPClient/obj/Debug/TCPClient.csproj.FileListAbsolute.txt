@@ -1,0 +1,18 @@
+D:\My Documents\Visual Studio 2008\Projects\TCPClient\obj\Debug\ResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2008\Projects\TCPClient\obj\Debug\TCPClient.Form1.resources
+D:\My Documents\Visual Studio 2008\Projects\TCPClient\obj\Debug\TCPClient.Properties.Resources.resources
+D:\My Documents\Visual Studio 2008\Projects\TCPClient\obj\Debug\TCPClient.csproj.GenerateResource.Cache
+D:\My Documents\Visual Studio 2008\Projects\TCPClient\bin\Debug\TCPClient.exe
+D:\My Documents\Visual Studio 2008\Projects\TCPClient\bin\Debug\TCPClient.pdb
+D:\My Documents\Visual Studio 2008\Projects\TCPClient\obj\Debug\TCPClient.exe
+D:\My Documents\Visual Studio 2008\Projects\TCPClient\obj\Debug\TCPClient.pdb
+C:\Users\Administrator\Desktop\TCPClient\obj\Debug\TCPClient.exe
+C:\Users\Administrator\Desktop\TCPClient\obj\Debug\TCPClient.pdb
+C:\Users\Administrator\Desktop\TCPClient\bin\Debug\TCPClient.exe
+C:\Users\Administrator\Desktop\TCPClient\bin\Debug\TCPClient.pdb
+C:\Users\Administrator\Desktop\TCPClient\obj\Debug\TCPClient.Form1.resources
+C:\Users\Administrator\Desktop\TCPClient\obj\Debug\TCPClient.Properties.Resources.resources
+C:\Users\Administrator\Desktop\TCPClient\obj\Debug\TCPClient.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\TCPClient\obj\Debug\TCPClient.csprojResolveAssemblyReference.cache
+E:\桌面乱七八糟文件\TCPClient\obj\Debug\TCPClient.exe
+E:\桌面乱七八糟文件\TCPClient\obj\Debug\TCPClient.pdb

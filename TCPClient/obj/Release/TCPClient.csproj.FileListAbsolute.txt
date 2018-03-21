@@ -1,0 +1,8 @@
+E:\桌面乱七八糟文件\TCPClient\bin\Release\TCPClient.exe
+E:\桌面乱七八糟文件\TCPClient\bin\Release\TCPClient.pdb
+E:\桌面乱七八糟文件\TCPClient\obj\Release\TCPClient.csprojResolveAssemblyReference.cache
+E:\桌面乱七八糟文件\TCPClient\obj\Release\TCPClient.Form1.resources
+E:\桌面乱七八糟文件\TCPClient\obj\Release\TCPClient.Properties.Resources.resources
+E:\桌面乱七八糟文件\TCPClient\obj\Release\TCPClient.csproj.GenerateResource.Cache
+E:\桌面乱七八糟文件\TCPClient\obj\Release\TCPClient.exe
+E:\桌面乱七八糟文件\TCPClient\obj\Release\TCPClient.pdb

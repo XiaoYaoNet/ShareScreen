@@ -1,0 +1,17 @@
+D:\My Documents\Visual Studio 2008\Projects\TCPServer\obj\Debug\ResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2008\Projects\TCPServer\obj\Debug\TCPServer.Form1.resources
+D:\My Documents\Visual Studio 2008\Projects\TCPServer\obj\Debug\TCPServer.Properties.Resources.resources
+D:\My Documents\Visual Studio 2008\Projects\TCPServer\obj\Debug\TCPServer.csproj.GenerateResource.Cache
+D:\My Documents\Visual Studio 2008\Projects\TCPServer\bin\Debug\TCPServer.exe
+D:\My Documents\Visual Studio 2008\Projects\TCPServer\bin\Debug\TCPServer.pdb
+D:\My Documents\Visual Studio 2008\Projects\TCPServer\obj\Debug\TCPServer.exe
+D:\My Documents\Visual Studio 2008\Projects\TCPServer\obj\Debug\TCPServer.pdb
+C:\Users\Administrator\Desktop\TCPServer\obj\Debug\TCPServer.exe
+C:\Users\Administrator\Desktop\TCPServer\obj\Debug\TCPServer.pdb
+C:\Users\Administrator\Desktop\TCPServer\bin\Debug\TCPServer.exe
+C:\Users\Administrator\Desktop\TCPServer\bin\Debug\TCPServer.pdb
+C:\Users\Administrator\Desktop\TCPServer\obj\Debug\TCPServer.Properties.Resources.resources
+C:\Users\Administrator\Desktop\TCPServer\obj\Debug\TCPServer.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\TCPServer\obj\Debug\TCPServer.StateObject.resources
+E:\桌面乱七八糟文件\TCPServer\obj\Debug\TCPServer.exe
+E:\桌面乱七八糟文件\TCPServer\obj\Debug\TCPServer.pdb
