@@ -59,7 +59,7 @@ namespace TCPClient
         {
             byte[] data = new byte[1024];
             newclient = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
-            string ipadd ="115.28.209.97";
+            string ipadd ="127.0.0.1";
             int port = Convert.ToInt32("888");
             IPEndPoint ie = new IPEndPoint(IPAddress.Parse(ipadd), port);
             try
